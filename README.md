@@ -35,7 +35,3 @@ python practica2.py disco
 
 _En esta práctica se instalan y configuran dos herramientas chkrootkit y rkhunter._ 
 
-## Practica 4
-**ileal_practica4.pdf**
-
-_._
